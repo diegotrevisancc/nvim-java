@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 -- Left column and similar settings
 vim.opt.number = true -- display line numbers
 vim.opt.relativenumber = true -- display relative line numbers
